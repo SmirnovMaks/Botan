@@ -1,0 +1,39 @@
+.nav {
+    display:flex;
+}
+.nav__list {
+    display:flex;
+}
+.promo__text {
+    display: inline-block;
+    width:auto;
+    height: 350px;
+}
+.promo__img--left{
+    
+}
+.news {
+    display: flex;
+}
+.news__imgmargin{
+    font-size: 0;
+    display: inline-block;
+}
+.news__text{
+    display: inline-block;
+    background-color: brown;
+}
+.news__image{
+    width: 285px;
+    display:inline-block;
+    font-size: 0;
+}
+.news__img {
+    display: inline;
+}
+.news__img1{
+    margin-bottom: 20px;
+}
+.news__imgbig{
+    margin-left: 20px;
+}
